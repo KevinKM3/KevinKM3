@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Kevin 
+- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, Python etc 💻.
+- 🌱 I’m currently learning Full Stack Development 🚀.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kevin-matthews-/)](https://www.linkedin.com/in/kevin-matthews-/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevmatthews3@gmail.com.com)](mailto:kevmatthews3@gmail.com)
+
+
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinKM3&show_icons=true&hide=["issues"])
+
+[![HitCount](http://hits.dwyl.com/KevinKM3/KevinKM3.svg)](http://hits.dwyl.com/kevinkm3/kevinkm3)
 
 <!--
 **KevinKM3/KevinKM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://www.linkedin.com/in/kevin-matthews-/
 -->

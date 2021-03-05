@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, Python etc 💻.
+- 🔭 I’m currently working on Node.js, Express.js, React, Ruby, Rails, Graphql, MongoDB, Python etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kevin-matthews-/)](https://www.linkedin.com/in/kevin-matthews-/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevmatthews3@gmail.com.com)](mailto:kevmatthews3@gmail.com)
 

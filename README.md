@@ -6,7 +6,7 @@
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinKM3&show_icons=true&hide=["issues"])
 
-[![HitCount](http://hits.dwyl.com/KevinKM3/KevinKM3.svg)](http://hits.dwyl.com/kevinkm3/kevinkm3)
+
 
 <!--
 **KevinKM3/KevinKM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

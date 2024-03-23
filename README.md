@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin 
-###  :basketball: :computer: :bike:
+###  :computer: :basketball:  :bike:
 
 
 
